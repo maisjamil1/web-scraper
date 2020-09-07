@@ -8,6 +8,8 @@ authors = ["maisjamil1 <maisjamil17118@gmail.com>"]
 python = "^3.8"
 beautifulsoup4 = "^4.9.1"
 requests = "^2.24.0"
+colorama = "^0.4.3"
+termcolor = "^1.1.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
